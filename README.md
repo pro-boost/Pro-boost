@@ -1,6 +1,6 @@
 # Hi there, I'm Mohamed-B AKA Pro-Boost! 👋
 
-![Banner Image](./Favicon.png)
+![Banner Image](./Favicon.png){:width="200px"}
 
 ## About Me 🚀
 
