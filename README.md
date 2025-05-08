@@ -1,5 +1,6 @@
 # Hi there, I'm Mohamed-B AKA Pro-Boost! 👋
 
+![Banner Image](./Favicon.png)
 
 ## About Me 🚀
 
@@ -33,17 +34,18 @@ I'm a passionate **Front-End Web Developer** with experience in **React, TypeScr
 
 ### [Portfolio Website](https://github.com/pro-boost/glow-folio-darklight-magic)
 
-![Portfolio Screenshot](your_portfolio_image_url)
+![Portfolio Screenshot](./Portfolio.png)
 
 A dark/light-themed personal portfolio built with **React, Tailwind CSS**, and **React Router**. It's responsive, animated, and optimized for SEO and mobile.
 
 👉 [Live at mohamed-b.com](https://mohamed-b.com)
 
+
 ---
 
 ### [Online Shop Project](https://github.com/pro-boost/Shoping-cart)
 
-![Shop Screenshot](your_shop_project_image_url)
+![Shop Screenshot](./ShopingCart.jpeg)
 
 A fully responsive **React-based e-commerce web app** simulating a real shopping experience. Includes cart functionality, product filtering, and UI state handling.
 
@@ -53,7 +55,7 @@ A fully responsive **React-based e-commerce web app** simulating a real shopping
 
 ### [Pokémon Memory Game](https://github.com/pro-boost/Memory_card)
 
-![Memory Game Screenshot](your_project_image_url)
+![Memory Game Screenshot](./PokemonGame.png)
 
 A card-matching memory game built with **React**, featuring Pokémon data from an external API. Uses React hooks for game logic, score tracking, and level progression.
 
