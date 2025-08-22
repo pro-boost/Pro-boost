@@ -9,7 +9,7 @@ I'm a passionate **Front-End Web Developer** with experience in **React, TypeScr
 - 📫 Reach me at: **contact@mohamed-b.com**
 - ⚡ Fun fact: **I started coding by customizing game interfaces — now I build full web apps!**
 
-## Programming Languages 💻
+## Programming Languages & Skills 💻
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
