@@ -1,6 +1,5 @@
 # Hi there, I'm Mohamed-B AKA Pro-Boost! 👋
 
-
 ## About Me 🚀
 
 I'm a passionate **Front-End Web Developer** with experience in **React, TypeScript, Tailwind CSS, Bootstrap**, and building interactive, performant user interfaces. I enjoy turning ideas into sleek, responsive products.
@@ -24,7 +23,6 @@ I'm a passionate **Front-End Web Developer** with experience in **React, TypeScr
 ![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 
-
 ## Spoken Languages 🌍
 
 - English
@@ -34,7 +32,7 @@ I'm a passionate **Front-End Web Developer** with experience in **React, TypeScr
 
 ## Featured Projects 💼
 
-### [Portfolio Website](https://github.com/pro-boost/glow-folio-darklight-magic)
+### [Portfolio Website](https://github.com/pro-boost/My_Portfolio)
 
 ![Portfolio Screenshot](./Portfolio.png)
 
@@ -42,30 +40,39 @@ A dark/light-themed personal portfolio built with **React, Tailwind CSS**, and *
 
 👉 [Live at mohamed-b.com](https://mohamed-b.com)
 
+---
+
+### [MegaTech Formations](https://github.com/pro-boost/formation-locale-architect)
+
+![Shop Screenshot](./MegaTech.png)
+
+A modern, multilingual professional training platform built with **React, TypeScript, and Supabase**. Specializing in Health, Safety & Environment (HSE), Project Management, and Mining Operations training programs.
+
+👉 [Live at megatech-formations.netlify.app](https://megatech-formations.netlify.app/)
 
 ---
 
-### [Online Shop Project](https://github.com/pro-boost/Shoping-cart)
+### [Strike Gear](https://github.com/pro-boost/Strike-Gear)
 
-![Shop Screenshot](./ShopingCart.jpeg)
+![Strike Gear Screenshot](./Strike-Gear.png)
 
-A fully responsive **React-based e-commerce web app** simulating a real shopping experience. Includes cart functionality, product filtering, and UI state handling.
+a modern e-commerce platform tailored for outdoor enthusiasts. Built with **cutting-edge technologies**, it offers a seamless shopping experience with a focus on performance and scalability.
 
-👉 [View the repo](https://github.com/pro-boost/Shoping-cart)
+## 👉 [Live at strike-gear.netlify.app](https://strike-gear.netlify.app/)
 
 ---
 
-### [Pokémon Memory Game](https://github.com/pro-boost/Memory_card)
+### [CineScope](https://github.com/pro-boost/alx-project-nexus)
 
-![Memory Game Screenshot](./PokemonGame.png)
+![Shop Screenshot](./CineScope.png)
 
-A card-matching memory game built with **React**, featuring Pokémon data from an external API. Uses React hooks for game logic, score tracking, and level progression.
+A modern, responsive movie discovery application built with **Next.js and TypeScript**. CineScope allows users to search for movies, browse by genres, manage favorites, and discover trending content using The Movie Database (TMDB) API.
 
-👉 [View the repo](https://github.com/pro-boost/Memory_card)
+👉 [Live at my-cinescope.vercel.app](https://my-cinescope.vercel.app/)
 
 ## Get in Touch 📬
 
 - 🌐 [mohamed-b.com](https://mohamed-b.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-b-96378b324/?profileId=ACoAAFH8K5sBSvKSjh8yYpw4efFrO28146SkVmE)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohamed-brk/)
 - 🐦 [X / Twitter](https://x.com/Pro_boost_)
 - 📧 Email: **contact@mohamed-b.com**
