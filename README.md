@@ -2,7 +2,7 @@
 
 ## About Me 🚀
 
-I'm a passionate **Front-End Web Developer** with experience in **React, TypeScript, Tailwind CSS, Bootstrap**, and building interactive, performant user interfaces. I enjoy turning ideas into sleek, responsive products.
+I'm a passionate **Front-End Web Developer** with experience in **React, NextJs, TypeScript, Tailwind CSS**, and building interactive, performant user interfaces. I enjoy turning ideas into sleek, responsive products.
 
 - 🌱 Currently learning: **React Native**
 - 🔭 Working on: **An Advanced Panorama Viewer**
