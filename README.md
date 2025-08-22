@@ -58,7 +58,7 @@ A modern, multilingual professional training platform built with **React, TypeSc
 
 a modern e-commerce platform tailored for outdoor enthusiasts. Built with **cutting-edge technologies**, it offers a seamless shopping experience with a focus on performance and scalability.
 
-## 👉 [Live at strike-gear.netlify.app](https://strike-gear.netlify.app/)
+👉 [Live at strike-gear.netlify.app](https://strike-gear.netlify.app/)
 
 ---
 
