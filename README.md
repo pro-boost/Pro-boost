@@ -5,8 +5,8 @@
 
 I'm a passionate **Front-End Web Developer** with experience in **React, TypeScript, Tailwind CSS, Bootstrap**, and building interactive, performant user interfaces. I enjoy turning ideas into sleek, responsive products.
 
-- 🌱 Currently learning: **Next.js**
-- 🔭 Working on: **A military/camping clothing store project**
+- 🌱 Currently learning: **React Native**
+- 🔭 Working on: **An Advanced Panorama Viewer**
 - 📫 Reach me at: **contact@mohamed-b.com**
 - ⚡ Fun fact: **I started coding by customizing game interfaces — now I build full web apps!**
 
@@ -21,6 +21,9 @@ I'm a passionate **Front-End Web Developer** with experience in **React, TypeScr
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Electron](https://img.shields.io/badge/-Electron-47848F?style=flat-square&logo=electron&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
+
 
 ## Spoken Languages 🌍
 
